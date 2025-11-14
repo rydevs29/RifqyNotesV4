@@ -1,0 +1,12 @@
+{
+  "name": "rifqy-notes-v3",
+  "version": "1.0.0",
+  "description": "Aplikasi catatan pintar dengan AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.15.0"
+  }
+}
